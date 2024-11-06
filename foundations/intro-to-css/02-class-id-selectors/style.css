@@ -1,4 +1,4 @@
-.number1, .number3, .number5{
+.odd{
     background-color:hsl(350, 100%, 88%);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -8,12 +8,11 @@
     font-size:36px;
 }
 
-.number3{
+.adjust-font-size{
     font-size:24px;
 }
 
 #number4{
     background-color:rgb(141, 236, 141);
-    font-size:24px;
     font-weight:bold;
 }
